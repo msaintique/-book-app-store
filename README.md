@@ -5,6 +5,6 @@ This app will ease the store of books, their authors, their pages, and help to t
 # Project Description
 This app has to parts: The first part is where you add a book title, author, pages and whether it is read or not. The second part is where all added books display. You can scroll down to see all books and you can delete any book that you want to remove from the list.
 # Sceenshoot
-![background](https://user-images.githubusercontent.com/107040435/173239438-ff9ee163-7c25-46a4-9411-3d9c5cef94f3.PNG)
+![image](https://user-images.githubusercontent.com/107040435/173239490-0fa79a6d-a483-4bb2-82b0-ab7b649a4d0d.png)
 
 
