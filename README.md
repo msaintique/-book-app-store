@@ -5,7 +5,7 @@ This app will ease the store of books, their authors, their pages, and help to t
 # Project Description
 This app has to parts: The first part is where you add a book title, author, pages and whether it is read or not. The second part is where all added books display. You can scroll down to see all books and you can delete any book that you want to remove from the list.
 # Sceenshoot
-![image](https://user-images.githubusercontent.com/107040435/173239490-0fa79a6d-a483-4bb2-82b0-ab7b649a4d0d.png)
+![background](https://user-images.githubusercontent.com/107040435/173239998-2cb9d6c9-2cb2-45bc-ab38-624d16490839.PNG)
 # Build with
 1.HTML5: 4.3%
 
@@ -14,4 +14,12 @@ This app has to parts: The first part is where you add a book title, author, pag
 3.SASS/SCSS: 5.6%
 
 4.JavaScript:83.3%
+# Features
+1.You can add book and it's descriptions
 
+2.You can delete book
+
+# Tools
+1.VS Code
+# Author
+# MUTOZIMANA saintique
